@@ -1,0 +1,10 @@
+# IntelliJ IDEA files and directories
+.idea/
+*.iml
+
+# Compiled code and build output
+/out/
+/target/
+/build/
+/bin/
+/.gradle/
